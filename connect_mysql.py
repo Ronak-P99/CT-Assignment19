@@ -6,7 +6,8 @@ def connect_database():
     """  Connect to the MySQL database and return the connection object """
     db_name = "e_commerce_db"
     user = "root"
-    password = "Mario101299"
+    #Add your password
+    password = ""
     host = "localhost"
 
     try:
